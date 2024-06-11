@@ -9,28 +9,6 @@
 			"name": "Refugio de los fieles",
 			"description": "<p>Como acólito, mereces el respeto de aquellos que comparten tu fé y puedes realizar las ceremonias religiosas de tu deidad. Tus compañeros de aventuras y tú pueden recibir sanación gratuita y atención en un templo, santuario, u otra presencia establecida de tu fé, aunque debes proporcionar los componentes materiales necesarios para los conjuros. Aquellos que comparten tu religión te podrán proporcionar (pero sólo a ti) un estilo de vida modesto.</p>\n<p>También podrías tener vínculos con un templo específico dedicado a tu deidad o panteón y tener una residencia allí. Podría tratarse del templo que utilizas para realizar los servicios, si mantienes una buena relación con la comunidad, o un templo en el que has encontrado un nuevo hogar. Mientras estés cerca de tu templo, puedes llamar a los sacerdotes para que te asistan, siempre y cuando la ayuda que solicitas no ponga en peligro a quien la realiza y permanezcas en buena relación con tu templo.</p>"
 		},
-		
-		"Salvaje": {
-			"name": "Salvaje",
-			"abilityScores": {
-			"Dexterity": 2,
-			"Wisdom": 1
-			},
-			"skillProficiencies": [
-			"Atletismo",
-			"Supervivencia"
-			],
-			"toolProficiencies": [
-			"Un instrumento musical"
-			],
-			"languageProficiency": [
-			"Uno a tu elección"
-			],
-			"feat": {
-			"name": "Iniciado en la magia (Primordial)"
-			},
-			"description": "<p>Creciste en la naturaleza, apartado de la civilización y las comodidades que la ciudad y la tecnología proporcionan. Has sido testigo de migraciones de rebaños más grandes que algunos bosques, has sobrevivido a climas más extremos de lo que cualquier urbanita podría concebir y has disfrutado de la soledad de quien se sabe el único ser inteligente en millas a la redonda. Ya seas un nómada, un explorador, un eremita, un cazador-recolector o incluso un saqueador, la naturaleza salvaje corre por tu sangre. También en aquellos lugares en los que no conoces con exactitud el terreno, todavía puedes confiar en tu conocimiento del mundo natural.</p>"
-		},
 		  
 		"Plantilla": {
 			"name": "Plantilla",
