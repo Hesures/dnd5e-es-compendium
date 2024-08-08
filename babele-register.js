@@ -161,7 +161,7 @@ function parseSense(sense) {
 	sense = sense.replace(/Darkvision/gi, "Visión en la oscuridad");
 	sense = sense.replace(/Darvision/gi, "Visión en la oscuridad"); //bug ^^
 	sense = sense.replace(/Blindsight/gi, "Vista ciega");
-	sense = sense.replace(/Truesight/gi, "Vista verdadera");
+	sense = sense.replace(/Truesight/gi, "Visión verdadera");
 	sense = sense.replace(/tremorsense/gi, "Sentir vibraciones");
 	sense = sense.replace(/Blind Beyond/gi, "Ciego más allá");
 	sense = sense.replace(/this radius/gi, "de este radio");
